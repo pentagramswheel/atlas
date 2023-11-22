@@ -9,7 +9,7 @@
 
 ## Introduction
 
-ATLAS (A Talking Logically Attentive System) is a personal AI/bot designed to mock Marvel's Tony Stark's AI, JARVIS.
+ATLAS (A Talking Logically Attentive System) is a personal AI/bot designed to mock Marvel's Tony Stark's AI, <medium><a href='https://en.wikipedia.org/wiki/J.A.R.V.I.S.'>JARVIS</a></medium>.
 
 
 ## How to Install
@@ -29,4 +29,4 @@ TBD
 
 ## Licensing and Rights
 
-For more info on licensing and copyright, see the information listed under licensing file <medium><a href='https://github.com/pentagramswheel/libra/blob/main/LICENSE'>LICENSE</a></medium>.
+For more info on licensing and copyright, see the information listed under licensing file <medium><a href='https://github.com/pentagramswheel/atlas/blob/main/LICENSE'>LICENSE</a></medium>.
